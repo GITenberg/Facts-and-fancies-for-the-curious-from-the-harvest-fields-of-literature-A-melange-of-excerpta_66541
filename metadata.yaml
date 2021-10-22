@@ -1,0 +1,26 @@
+_repo: Facts-and-fancies-for-the-curious-from-the-harvest-fields-of-literature-A-melange-of-excerpta_66541
+_version: 0.0.1
+contributor:
+  compiler:
+    agent_name: Bombaugh, Charles C. (Charles Carroll)
+    aliases:
+    - Bombaugh, C. C. (Charles Carroll)
+    - Bombaugh, Charles Carroll
+    birthdate: 1828
+    deathdate: 1906
+    gutenberg_agent_id: '49045'
+    url: http://www.gutenberg.org/2009/agents/49045
+description: ''
+gutenberg_issued: '2021-10-14'
+identifiers:
+  gutenberg: '66541'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: 'Facts and fancies for the curious from the harvest-fields of literature
+
+  A melange of excerpta'
+url: http://www.gutenberg.org/ebooks/66541
