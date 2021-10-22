@@ -10,7 +10,12 @@ contributor:
     deathdate: 1906
     gutenberg_agent_id: '49045'
     url: http://www.gutenberg.org/2009/agents/49045
+covers:
+- cover_type: archival
+  image_path: 66541-h/images/cover.jpg
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/66541#Facts-and-fancies-for-the-curious-from-the-harvest-fields-of-literature-A-melange-of-excerpta
 gutenberg_issued: '2021-10-14'
 identifiers:
   gutenberg: '66541'
